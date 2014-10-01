@@ -10,9 +10,9 @@ Use [Bower](http://bower.io/) to install this module.
 $ bower install --save wvu-patterns-footer-credits
 ```
 
-## Overwrite Default Breakpoint Values
+## Override Default Breakpoint Values
 
-To overwrite the default value place the new variable before the default value. Below is an example of how you can overwrite the default breakpoint value. The overwrite will not work if you place it after the default value.
+To override the default value place the new variable before the default value. Below is an example of how you can override the default breakpoint value. The override will not work if you place it after the default value.
 
 
 ##### Example:
