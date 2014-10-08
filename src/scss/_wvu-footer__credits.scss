@@ -1,40 +1,43 @@
 // WVU Footer - Credits
 //==================================================
-
-
-// Breakpoint
 $wvu-footer-breakpoint: 'min-width: 48em' !default;
 
-
-// Styles
 .wvu-footer__credits {
+  float: left;
   font-size: 12px;
   line-height: 1.66;
-  float: left;
   padding-bottom: 13px;
+  
   @media ($wvu-footer-breakpoint) {
+    float: left;
     margin-left: 0; 
     margin-right: 0; 
     width: 50%;
-    float: left;
   }
-  ul, p { 
-    margin: 0; 
-    padding: 0; 
+  
+  ul,
+  p { 
+    margin: 0;
     margin-bottom: 6px; 
+    padding: 0;
+    
     @media ($wvu-footer-breakpoint) {
       margin-bottom: 0;
     }
   }
-  li { 
-    list-style-type: none; 
+  
+  li {
     display: inline;
+    list-style-type: none; 
+
     &:before {
       content: '|'; 
       padding-right: 3px;
     } 
+    
     &:first-child:before {
-      content: ''; padding-right: 0;
+      content: ''; 
+      padding-right: 0;
     }
   }
 } // .wvu-footer__credits
