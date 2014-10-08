@@ -25,6 +25,8 @@ Requires:
 * NodeJS
 * Gulp
 
+*RVM is Preferred* but not required
+
 ####Installation
 
 *RVM is Preferred* but not required
