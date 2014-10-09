@@ -30,7 +30,7 @@ Requires:
 
 ####Installation
 
-* `cd {install-dir}/wvu-patterns-footer-links`
+* `cd {install-dir}/wvu-patterns-footer-credits`
 * `gem install bundler`
 * `bundle install`
 * `npm install`
