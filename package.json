@@ -1,6 +1,6 @@
 {
   "name": "wvu-patterns-footer-credits",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "WVU Pattern LIbrary - Footer Credits Module",
   "main": "gulpfile.js",
   "scripts": {
