@@ -4,7 +4,6 @@ $wvu-footer-breakpoint: 'min-width: 48em' !default;
 
 .wvu-footer__credits {
   float: left;
-  padding-bottom: 13px;
   
   @media (#{$wvu-footer-breakpoint}) {
     float: left;
