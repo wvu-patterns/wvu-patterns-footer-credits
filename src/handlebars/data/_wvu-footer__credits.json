@@ -1,0 +1,13 @@
+{
+  "_wvu-footer__credits": {
+    "css": [
+      { "src": "css/_wvu-footer__credits.css" }
+    ],
+    "links": [
+      { "href":"http://about.wvu.edu/wvu-facts", "title": "Accreditations" },
+      { "href":"http://brand.wvu.edu/web-standards", "title": "Web Standards" },
+      { "href":"mailto:web_services@mail.wvu.edu", "title": "Questions or Comments?" }
+    ],
+    "copyright": "&copy; 2014 West Virginia University. West Virginia University is an Equal Opportunity/Affirmative Action institution."
+  }
+}
