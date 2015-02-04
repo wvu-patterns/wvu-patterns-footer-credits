@@ -1,26 +1,26 @@
 {
   "name": "wvu-patterns-footer-credits",
+  "homepage": "https://github.com/wvu-patterns/wvu-patterns-footer-credits",
   "version": "0.1.0",
-  "description": "WVU Pattern LIbrary - Footer Credits Module",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "gulp build"
-  },
   "repository": {
     "type": "git",
-    "url": "https://zeroedin@github.com/wvu-patterns/wvu-patterns-footer-credits.git"
+    "url": "https://github.com/wvu-patterns/wvu-patterns-footer-credits.git"
   },
-  "keywords": [
-    "wvu",
-    "scss",
-    "west virginia university"
-  ],
-  "author": "Steven Spriggs <steven.spriggs@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wvu-patterns/wvu-patterns-footer-credits/issues"
   },
-  "homepage": "https://github.com/wvu-patterns/wvu-patterns-footer-credits",
+  "author": "Steven Spriggs <steven.spriggs@mail.wvu.edu>",
+  "keywords": [
+    "wvu",
+    "west virginia university",
+    "patterns"
+  ],
+  "description": "WVU Pattern LIbrary - Footer Credits Module",
+  "license": "MIT",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp ci"
+  },
   "devDependencies": {
     "browser-sync": "^1.7.3",
     "del": "^0.1.3",

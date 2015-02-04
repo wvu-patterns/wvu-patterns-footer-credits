@@ -2,23 +2,27 @@
   "name": "wvu-patterns-footer-credits",
   "version": "0.1.0",
   "authors": [
-    "Steven Spriggs <steven.spriggs@gmail.com>"
-  ],
-  "description": "WVU Pattern Library - Footer Credits Module",
-  "main": [
-    "_wvu-footer__credits.scss"
+    "Steven Spriggs <steven.spriggs@mail.wvu.edu>",
+    "Dustin Mazon <dustin.mazon@mail.wvu.edu>"
   ],
   "keywords": [
     "wvu",
     "west virginia university",
-    "css",
-    "scss"
+    "patterns"
   ],
+  "description": "WVU Pattern Library - Footer Credits Module",
   "license": "MIT",
+  "main": [
+    "src/cleanslate/_wvu-patterns__credits.html",
+    "src/handlebars/data/_wvu-patterns__credits.json",
+    "src/handlebars/partials/_wvu-patterns__credits.hbs",
+    "src/scss/_wvu-patterns__credits.scss"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "build",
     "test",
     "tests"
   ]
